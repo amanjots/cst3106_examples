@@ -7,12 +7,15 @@ School of Advanced Technology, Algonquin College
 ### 1) HTML 
 
 https://www.w3schools.com/html/
+
 https://code.tutsplus.com/articles/10-rare-html-tags-you-really-should-know--net-3908
 
 
 ### 2) CSS
 
 https://www.w3schools.com/css 
+
 https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works
+
 https://byby.dev/css-evolution  
 
