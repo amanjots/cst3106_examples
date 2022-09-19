@@ -1,2 +1,2 @@
-/* Each container */
-.container { background-color: #ADD8E6; }
+/* All elements with class=div-xyz will have the following styling */
+.div-xyz { background-color: #ADD8E6; }
